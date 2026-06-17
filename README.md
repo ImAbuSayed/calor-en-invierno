@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/calor-en-invierno/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Calor en invierno](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/calor-en-invierno/) |
+| **Get License** | [Get License For Calor en invierno](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/calor-en-invierno/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Son las tres de la mañana y tu cuerpo me llama
+> El perfume de tu piel enciende toda esta llama
+> Tú me miras de reojo, baby, yo sé que me quieres
+> Dime qué es lo que esperas, dime qué es lo que prefieres
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
