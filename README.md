@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/calor-en-invierno/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Calor en invierno](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/calor-en-invierno/) |
+| **Get License** | [Request Licensing for Calor en invierno](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/calor-en-invierno/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `2d86c69c6e339d6b5e468f137c38d17c606132244faba01b10498733ac6d8472` |
 | **Timestamp** | June 17, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
